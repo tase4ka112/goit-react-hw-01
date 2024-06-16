@@ -1,0 +1,24 @@
+.friendsAvatar {
+  margin: 0 auto;
+}
+
+.friendsName {
+  font-size: 16px;
+  margin-top: 12px;
+  text-align: center;
+  line-height: 1.5;
+}
+
+.friendsStatus {
+  font-size: 12px;
+  text-align: center;
+  line-height: 1.5;
+}
+
+.friendsIsOnline {
+  color: #377e22;
+}
+
+.friendsIsOffline {
+  color: #ea3323;
+}
